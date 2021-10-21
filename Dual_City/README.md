@@ -1,0 +1,4 @@
+- Comparision between two dates
+- Does the continet follow the same dual citizenship rule?
+- Need to join with country meta data
+- Only Categorical
